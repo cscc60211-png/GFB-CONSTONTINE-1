@@ -1,0 +1,18 @@
+<div class="contact-form">
+                <form action="#" method="POST">
+                    <input type="text" placeholder="الاسم الكامل" required>
+                    <input type="text" placeholder="رقم الهاتف" required>
+                    <textarea rows="4" placeholder="نص الرسالة أو الطلب..." required></textarea>
+                    <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center; border: none; cursor: pointer;">إرسال الطلب</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- التذييل -->
+    <footer>
+        <p>جميع الحقوق محفوظة &copy; 2026 <span>GFB Constantine</span> - علي منجلي، قسنطينة.</p>
+    </footer>
+
+</body>
+</html>
